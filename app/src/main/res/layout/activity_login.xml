@@ -58,7 +58,7 @@
         <ImageView
             android:layout_marginRight="10dp"
             android:layout_width="30dp"
-            android:layout_height="30dp"
+            android:layout_height="40dp"
             android:layout_gravity="bottom"
             android:src="@drawable/facebook"/>
         <ImageView
